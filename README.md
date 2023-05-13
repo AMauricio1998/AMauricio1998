@@ -1,5 +1,6 @@
 # 💫 Acerca de mi:
-Me encuentro trabajando en proyectos personales🧠<br>Estoy buscando trabajo como desarrollador web trainee💪<br>Actualmente estoy expandiendo mis conocimientos en el desarrollo web💻<br>Busco trabajar en un equipo de desarrollo🌟
+Me encuentro trabajando en proyectos personales🧠<br>Estoy buscando trabajo como desarrollador web💪
+<br>Actualmente estoy expandiendo mis conocimientos en el desarrollo web💻<br>Busco trabajar en un equipo de desarrollo🌟
 
 
 ## 🌐 Redes sociales:
