@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-Soy desarrollador web con experiencia en diversos proyectos🧠
+Soy Ingeniero en Desarollo y Gestion de Software especializado en creacion y mantenimiento de aplicaciones web.🧠
 
 ## 🌐 Redes sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mauricio-Reyes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-reyes-idgs/) 
