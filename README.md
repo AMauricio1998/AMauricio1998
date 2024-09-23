@@ -1,7 +1,5 @@
 # 💫 Acerca de mi:
-Me encuentro trabajando en proyectos personales🧠<br>Estoy buscando trabajo como desarrollador web💪
-<br>Actualmente estoy expandiendo mis conocimientos en el desarrollo web💻<br>Busco trabajar en un equipo de desarrollo🌟
-
+Soy desarrollador web con experiencia en diversos proyectos🧠
 
 ## 🌐 Redes sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mauricio-Reyes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alan-Mauricio-Reyes-Telésforo) 
